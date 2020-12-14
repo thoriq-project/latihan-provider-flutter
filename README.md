@@ -1,4 +1,4 @@
-# cp_provider
+# Latihan Provider StateManagement Flutter
 
 A new Flutter project.
 
